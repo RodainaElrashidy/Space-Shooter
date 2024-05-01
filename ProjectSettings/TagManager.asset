@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Asteroid
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - Asteroid
+  - Bullet
+  - Player
+  - Explosion
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2548169669
+    locked: 0
+  - name: Asteroid
+    uniqueID: 1430215735
+    locked: 0
+  - name: Bullet
+    uniqueID: 1589758717
+    locked: 0
+  - name: Player
+    uniqueID: 2997773851
+    locked: 0
+  - name: Explosion
+    uniqueID: 88573353
+    locked: 0
